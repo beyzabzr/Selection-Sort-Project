@@ -3,6 +3,7 @@
 ---
 
 1.Soru: [22,27,16,2,18,6] Dizinin Sort aşamalarını yazınız.
+
 **En küçük eleman bulunur ve ilk elemanla yeri değiştirilir. Her adım da bir diğer eleman geçerek aynı işlem sıralama doğru olana kadar uygulanır.**
 **_En küçük elemanımız 2 olduğu için ilk eleman ile yeri değiştirilir_**
 
